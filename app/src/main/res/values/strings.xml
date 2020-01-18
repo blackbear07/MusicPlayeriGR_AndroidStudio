@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Music Player iGR</string>
+
+    <string name="nameTabItemSongs">Песни</string>
+    <string name="nameTabItemPlaylists">Плей-листы</string>
+    <string name="nameTabItemFolders">Папки</string>
+    <string name="nameTabItemAlbums">Альбомы</string>
+
 </resources>
